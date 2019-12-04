@@ -2,7 +2,7 @@
 title: "The land use intensity index"
 author: "Trond Simensen"
 date: "2 12 2019"
-output: html_document
+output: github_document
 ---
 
 ![Above: Land use intensity index for Trondheim municipality](images/ABI.jpeg)
@@ -29,11 +29,11 @@ Linear elements from N50 ‘transportation’* 		  | N50
 
 Land cover component (Kfl), i.e. land cover classes:      | Data source
 ----------------------------------------------------------| -----------
-Urban fabric 	                                          | N50
-Industrial areas	                                  | N50
-Airports	                                          | N50
-Mine, dump and construction sites	                  | N50
-Graveyards	                                          | N50
+Urban fabric 	                                            | N50
+Industrial areas	                                        | N50
+Airports	                                                | N50
+Mine, dump and construction sites	                        | N50
+Graveyards	                                              | N50
 Sport and leisure facilities                              | N50
 *_roads and railways are included, but minor trails,tractor trails and paths are not included_  
 **_including golf courses, ski jump facilities, Sport and leisure facilities, ski resorts, etc._ 
@@ -243,13 +243,13 @@ plot(byl_corrected)
 
 Land cover component (Kfl), i.e. land cover classes:      | Data source
 ----------------------------------------------------------| -----------
-Built up areas, i.e.:	                                  | N50
-Urban fabric 	                                          | N50
-Industrial areas	                                  | N50
-Airports	                                          | N50
-Mine, dump and construction sites	                  | N50
-Graveyards	                                          | N50
-Sport and leisure facilities*                              | N50
+Built up areas, i.e.:	                                    | N50
+Urban fabric 	                                            | N50
+Industrial areas	                                        | N50
+Airports	                                                | N50
+Mine, dump and construction sites	                        | N50
+Graveyards	                                              | N50
+Sport and leisure facilities*                             | N50
 
 *_including golf courses, ski jump facilities, Sport and leisure facilities, ski resorts, etc._ 
 
