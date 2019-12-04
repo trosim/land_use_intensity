@@ -1,0 +1,8 @@
+base
+sp
+raster
+rgdal
+sf
+mapview
+RColorBrewer
+prettymapr
